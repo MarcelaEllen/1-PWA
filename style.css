@@ -75,6 +75,23 @@ p{
     margin:2px;
     border-radius: 20px;
 }
+
+.info {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+.data {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+li {
+    margin-bottom: 10px;
+  }
+  
 footer{
     margin-top: 80px;
     border-top: 2px solid;
